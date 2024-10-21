@@ -1,5 +1,8 @@
 # 카카오 테크 부트캠프 1기 1조가 Final Project을 진행하는 공간입니다!
 
+## 진행 방식
+- 데일리 밋업: 매주 월, 수, 금 14시
+
 ## 팀원 및 역할
 
 | <img width="122" alt="image" src="https://github.com/user-attachments/assets/c397adf8-767d-496d-b4d2-78be435704a1"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/3d885f38-52ad-44f5-b9ac-1bfa30c4b0f5"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/5af0ddb4-3cd0-4c71-a2f8-f7a7ff7c693e"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/8e5d9eeb-5049-42da-b6af-7b257db6f311"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/5f92b7ab-f887-4def-8266-e5c5c797c6f8"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/e78047d7-22d7-47a7-a34f-0eeb3283f05b"> |
