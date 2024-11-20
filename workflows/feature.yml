@@ -1,0 +1,55 @@
+name: Feature 🚀
+description: 새로운 기능을 빠르게 공유하세요.
+title: "[feat] "
+labels: ["feature"]
+projects: ["octo-org/1", "octo-org/44"]
+assignees:
+  - octocat
+body:
+  - type: input
+    id: parentKey
+    attributes:
+      label: '상위 작업 Ticket Number'
+      description: '상위 작업의 Ticket Number를 기입해주세요'
+      placeholder: 'TODAK-00'
+    validations:
+      required: true
+  - type: input
+    id: branchName
+    attributes:
+      label: '브랜치 이름 ( Fixed Prefix : feature/[Ticket Number] )'
+      description: '원하는 브랜치 이름을 입력해주세요.'
+      placeholder: 'branch-name'
+    validations:
+      required: true
+  - type: textarea
+    id: work-process
+    attributes:
+      label: 🕹️ 구현할 기능
+      description: 어떤 기능을 구현할지 알려주세요.
+      placeholder: ex) 반복적인 명령어를 자동화하는 스크립트를 작성합니다.
+    validations:
+      required: true
+  - type: textarea
+    id: detail-work
+    attributes:
+      label: 🛠️ 상세작업내용
+      value: |
+        - [ ] 1.
+        - [ ] 2.
+        - [ ] 3.
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: ⏰ 예상소요시간
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: 📄 참고자료
+      placeholder: ex) URL
+    validations:
+      required: false
