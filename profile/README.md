@@ -5,7 +5,7 @@
 | <img width="122" alt="image" src="https://github.com/user-attachments/assets/c397adf8-767d-496d-b4d2-78be435704a1"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/3d885f38-52ad-44f5-b9ac-1bfa30c4b0f5"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/5af0ddb4-3cd0-4c71-a2f8-f7a7ff7c693e"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/8e5d9eeb-5049-42da-b6af-7b257db6f311"> | <img width="122" alt="image" src="https://github.com/user-attachments/assets/e78047d7-22d7-47a7-a34f-0eeb3283f05b">  | <img width="122" alt="image" src="https://github.com/user-attachments/assets/5f92b7ab-f887-4def-8266-e5c5c797c6f8"> |
 |------------------------------------------------------|--------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
 | [Jinho.Hong(홍진호)](https://github.com/mynameisjinhohong)                                            | [Ayaan.Park(박찬영)](https://github.com/chanyoungit)                                           | [Jully.Han(한주리)](https://github.com/Hanjuri)                                           | [Milo.Kim(김민제)](https://github.com/alswp006)                                                                                                                                               | [Winter.Park(박현혜)](https://github.com/hyeonhye126)                                                                                                                                            |[Dorothy.Kim(김도윤)](https://github.com/Do-yoon)                                               | 
-| Cloud                      | Cloud                                              | Front-end                                                                               | Back-end                                                                                                                                           | AI                                                                                                                                              | AI                                       |
+| 팀장<br>Cloud                      | Cloud                                              | Front-end                                                                               | Back-end                                                                                                                                           | AI                                                                                                                                              | AI                                       |
 ## 💁‍♂️ Detail Role <a name = "role"></a>
 + [Jinho.Hong(홍진호)](https://github.com/mynameisjinhohong)
   - 팀장
@@ -59,7 +59,19 @@
 
  <br>
 
-
+## Team Introduce
+### 팀 이름
+일취월장
+### 팀 문화
+- 매주 3번 회의
+  - 이전 회의 이후로 진행된 사항 공유
+  - 현재 팀 전체적으로 논의할 사항 논의
+  - 다음 회의까지 각자 작업할 사항 결정
+- 프로젝트 관리
+  - 팀 디스코드 채널을 개설하여 정보 공유 및 소통
+  - Jira를 활용하여 일정 및 스프린트 관리
+- 일정관리
+  - 지각비를 도입하여, 팀원들이 약속 시간에 늦지 않도록 
 
 ## Devita (develop + vitamin)
 ### 프로젝트 한줄 소개
@@ -74,3 +86,11 @@
 ### 타 서비스 대비 차별점
 <img width="1542" alt="image" src="https://github.com/user-attachments/assets/1108fb5b-073b-4976-9a7e-ce25fd845c45"><br>
 ### 📈 아키텍처  <a name = "structure"></a>
+
+### 기술선택이유
+
+### 
+
+### 결과
+
+
