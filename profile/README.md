@@ -18,14 +18,13 @@
 <Br>
 
 + [Ayaan.Park(박찬영)](https://github.com/chanyoungit) 
-  - 기획자 
+  - pm
   - Back-end & DevOps
-  - 로그인, 마이페이지, 찜, 매칭, 알림, 공지사항, 리워드, 결제 취소 배치 작업 구현
-  - 전체적인 AWS 환경 구축
-  - Jenkins CI/CD 구축
-  - Redis 클러스터 및 모니터링 구축
-  - 로그 모니터링용 ELK 구축
-  - Swagger, REST docs 문서화
+  - 아키텍쳐 설계 및 구축
+  - Nginx
+  - Back-end API 구현
+  - Back-end 최적화 작업
+  - DB 관리
 
 <Br>
 
