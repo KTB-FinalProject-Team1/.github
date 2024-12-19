@@ -90,7 +90,7 @@
 <img width="1542" alt="image" src="https://github.com/user-attachments/assets/1108fb5b-073b-4976-9a7e-ce25fd845c45"><br>
 ### 📈 아키텍처  <a name = "structure"></a>
 
-![devita drawio](https://github.com/user-attachments/assets/3ab94970-7ae4-47c3-9495-fb5c947754bf)
+![devita drawio (1)](https://github.com/user-attachments/assets/193d93bc-fa12-43ee-a483-7cd8265f99b5)
 
 - 개발 서버와 배포 서버를 분리
 - 초창기 웹으로 개발을 진행하다 여러 논의후 앱으로 전환
