@@ -65,10 +65,14 @@
 ### 팀 이름
 일취월장
 ### 팀 문화
+
+<img width="733" alt="스크린샷 2024-12-20 오후 3 53 22" src="https://github.com/user-attachments/assets/b8ee154b-a514-48b9-8058-ccb9124d80b2" /><br>
 - 매주 3번 회의
   - 이전 회의 이후로 진행된 사항 공유
   - 현재 팀 전체적으로 논의할 사항 논의
   - 다음 회의까지 각자 작업할 사항 결정
+
+
 - 프로젝트 관리
   - 팀 디스코드 채널을 개설하여 정보 공유 및 소통
   - Jira를 활용하여 일정 및 스프린트 관리
@@ -89,7 +93,7 @@
 <img width="1542" alt="image" src="https://github.com/user-attachments/assets/1108fb5b-073b-4976-9a7e-ce25fd845c45"><br>
 ### 📈 아키텍처  <a name = "structure"></a>
 
-![devita drawio (1)](https://github.com/user-attachments/assets/193d93bc-fa12-43ee-a483-7cd8265f99b5)
+![devita drawio (3)](https://github.com/user-attachments/assets/eb7331e0-97d5-4e25-ae05-16fba6f173cf)
 
 - 개발 서버와 배포 서버를 분리
 - 초창기 웹으로 개발을 진행하다 여러 논의후 앱으로 전환
