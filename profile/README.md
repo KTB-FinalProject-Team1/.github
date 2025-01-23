@@ -54,8 +54,10 @@
 
 + [Dorothy.Kim(김도윤)](https://github.com/Do-yoon) 
   - PM
-  - Front-end
-  - 모든 Front-end 구현
+  - Langchain을 이용한 프롬프트 엔지니어링
+  - LLM이 중복된 결과를 출력하지 않도록 후처리
+  - 중복된 결과 출력 방지를 위한 ChromaDB 관리
+  - 프롬프트 결과 서빙
 
 <Br>
 
