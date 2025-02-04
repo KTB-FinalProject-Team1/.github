@@ -47,8 +47,9 @@
 
 + [Winter.Park(박현혜)](https://github.com/hyeonhye126)
   - PM
-  - Front-end
-  - 모든 Front-end 구현
+  - GPT-4o-mini + Few-shot 기반 맞춤 미션 생성
+  - LangChain, ChromaDB 활용 RAG 검색·생성
+  - 프롬프트 엔지니어링으로 응답 품질·성능 최적화
 
 <Br>
 
