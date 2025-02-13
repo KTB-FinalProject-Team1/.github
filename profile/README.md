@@ -18,12 +18,11 @@
 <Br>
 
 + [Ayaan.Park(박찬영)](https://github.com/chanyoungit) 
-  - pm
-  - Back-end & DevOps
+  - PM
   - 아키텍쳐 설계 및 구축
-  - Nginx
   - Back-end API 구현
   - Back-end 최적화 작업
+  - 테스트 코드 작성
   - DB 관리
 
 <Br>
